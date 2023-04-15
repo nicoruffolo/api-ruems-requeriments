@@ -1,0 +1,16 @@
+{
+  "users": [
+    {
+      "idUser": 0,
+      "username": "",
+      "rol": "",
+      "token": ""
+    }
+  ],
+  "proyecto": [
+    {
+      "idProyecto": 0,
+      "nombre": ""
+    }
+  ]
+}
